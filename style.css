@@ -1,0 +1,37 @@
+#body {
+    position: absolute;
+    width: 300px;
+}
+
+.miss-counter {
+    max-height: fit-content;
+    max-width: fit-content;
+    background-color: rgba(29, 33, 39, 0.75);
+    border-radius: 10px 10px 10px 10px;
+    transition: ease-out 500ms;
+}
+
+
+.miss-counter * {
+    font-size: 24px;
+    font-weight: bold;
+    font-family: "Roboto", sans-serif;
+    transition: ease-out 500ms;
+    display: inline-block;
+}
+#miss, #CB {
+     color: rgb(255, 0, 0);
+     align-content: left;
+     margin-right: 10px;
+     margin-left: 6px;
+     margin-top: 5px;
+ }
+ #CB {
+    color: rgb(132, 0, 255);
+ }
+#count, #cbcount {
+    color: rgb(255, 255, 255);
+    margin-right: 6px;
+    align-content: right;
+    margin-bottom: 5px;
+}

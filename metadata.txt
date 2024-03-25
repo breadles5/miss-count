@@ -1,0 +1,6 @@
+Usecase: ingame, obs-overlay
+Name: miss count
+Author: breadles
+CompatibleWith: tosu
+Resolution: 240 x 120
+authorLinks: https://github.com/breadles5/
