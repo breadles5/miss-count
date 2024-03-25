@@ -6,3 +6,4 @@
 - download zip
 - unzip to your counters folder
 - add to config.ini or obs browser
+- recommended overlay resolution: 240 x 120
