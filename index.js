@@ -1,4 +1,4 @@
-import WebSocketManager from './deps/socket.js';
+import WebSocketManager from './socket.js';
 const socket = new WebSocketManager('127.0.0.1:24050');
 
 const cache = {
